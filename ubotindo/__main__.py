@@ -106,7 +106,6 @@ buttons += [[InlineKeyboardButton(text="Help & Commands ❔",
 
 
 HELP_STRINGS = f"""
-Halo! Nama saya adalah *{dispatcher.bot.first_name}*.
 Saya bot manajemen grup modular dengan beberapa tambahan yang menyenangkan! Lihatlah berikut ini untuk mendapatkan gambaran tentang beberapa \
 hal-hal yang dapat saya bantu.
 *Main* commands available:
