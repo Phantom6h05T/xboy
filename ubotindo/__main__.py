@@ -89,7 +89,6 @@ Partner found [Anonymous](https://t.me/XNewbie)
 /stop — stop this dialog
 
 Send me text, links, gifs, stickers, photos, videos or voice messages and I will anonymously forward them to your partner
-"""
 
 buttons = [
     [
